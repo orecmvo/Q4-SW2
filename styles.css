@@ -1,0 +1,23 @@
+body{
+	font-family: "DynaPuff", system-ui;
+	color: 	#946656;
+	background-color: #ffd6e9;
+}
+
+img{
+	border:10px dashed #e1b09c;
+}
+
+button{
+	color:#946656 ;
+	background-color:	#ffc0cb;
+	border:2px solid #946656;
+	border-radius: 9px;
+	padding:7px;
+	margin:10px;
+
+}
+
+.intro{
+	border:7px dotted #e1b09c;
+}
